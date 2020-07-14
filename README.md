@@ -4,4 +4,5 @@ Redux store is used and firebase is used for authentication and also for storing
 Tech stack used:React Native                                                                                                                                             
 # Installation
 After forking/cloning the repo to install dependencies run:                                                                                                             
-  npm install
+  npm install                                                                                                                                                           
+to check the basic view of app check the images-snap-shots folder            
